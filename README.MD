@@ -1,3 +1,8 @@
+# My Trial is in the list below
+ * [code](https://github.com/romth777/CarND-TensorFlow-Lab/blob/master/lab.ipynb)
+
+---
+
 # TensorFlow Neural Network Lab
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
